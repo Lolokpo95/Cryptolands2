@@ -67,11 +67,11 @@ body {
 }
 
 body {
-  background: #141515;
+  background: #838383;
   font-family: "muli-regular", sans-serif;
   font-size: 1.6rem;
   line-height: 1.875;
-  color: #767676;
+  color: #E1E1E1;
   margin: 0;
   padding: 0;
 }
@@ -160,7 +160,7 @@ p.lead {
   font-family: "muli-light", sans-serif;
   font-size: 2.1rem;
   line-height: 1.857;
-  color: #838383;
+  color: #E8E8E8;
   margin-bottom: 3.6rem;
 }
 
@@ -1817,7 +1817,7 @@ html[data-useragent*='MSIE 10.0'] .home-scrolldown,
 
 #about {
   min-height: 786px;
-  background: #ffffff;
+  background: #2E4053;
   padding-top: 18rem;
   overflow: hidden;
 }
@@ -2147,7 +2147,7 @@ html[data-useragent*='MSIE 10.0'] .home-scrolldown,
 }
 
 .pricing-table .plan-block.primary .plan-block-features {
-  border-top: 1px solid rgba(255, 255, 255, 0.2);
+  border-top: 1px solid #20343e(255, 255, 255, 0.2);
 }
 
 .pricing-table .plan-block.primary .plan-block-features li {
@@ -2249,7 +2249,7 @@ html[data-useragent*='MSIE 10.0'] .home-scrolldown,
  * ------------------------------------------------------------------- */
 
 #testimonials {
-  background: #FFFFFF;
+  background: #2e4053;
   padding: 15rem 0 9rem;
   text-align: center;
   min-height: 600px;
@@ -2281,7 +2281,7 @@ html[data-useragent*='MSIE 10.0'] .home-scrolldown,
   font-family: "muli-regular", sans-serif;
   font-size: 3.2rem;
   line-height: 1.5;
-  color: #303030;
+  color: #e7e5e5;
 }
 
 #testimonial-slider p::before,
@@ -2460,7 +2460,7 @@ html[data-useragent*='MSIE 10.0'] .home-scrolldown,
  * ------------------------------------------------------------------- */
 
 #download {
-  background: #fafafa;
+  background: #6e93bb;
   color: #050505;
   padding-top: 12rem;
   padding-bottom: 12rem;
